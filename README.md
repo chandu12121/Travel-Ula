@@ -1,70 +1,85 @@
-# Getting Started with Create React App
+# Travel Unbounded
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## Description
 
-## Available Scripts
+Travel Unbounded is a travel website built using React that allows users to explore various destinations, including wildlife and leisure packages. It features a navigation bar, a destination dropdown with a popup, and an image carousel.
 
-In the project directory, you can run:
+## Features
 
-### `npm start`
+- Fixed Header Navigation Bar
+- Destination Dropdown with Hover Popup
+- Slick Carousel for Image Slideshow
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+## Technologies Used
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+- React.js
+- React Slick (Carousel)
+- CSS for Styling
 
-### `npm test`
+## Usage
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+- Hover over the **Destinations** button to view a popup with various travel destinations.
+- Navigate through the **carousel** using left and right arrows.
+- Scroll through the page while the **header remains fixed** at the top.
 
-### `npm run build`
+## 🚀 Features
+- User-friendly holiday booking form
+- OTP verification for phone numbers
+- Responsive design
+- Interactive UI with dropdowns and date picker
+- Styled with CSS
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+📌 Itinerary
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+Journey Plans
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+Day-wise itinerary with activities and schedules
 
-### `npm run eject`
+Accommodation details
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+Meals and dining options
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+Transportation details
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+Terms & Conditions
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+Booking confirmation and cancellation policies
 
-## Learn More
+Payment terms and refund policies
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+Travel insurance requirements
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+Liability disclaimers
 
-### Code Splitting
+Inclusions
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+Accommodation in selected hotels
 
-### Analyzing the Bundle Size
+Daily breakfast and meals as per itinerary
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+Guided sightseeing tours
 
-### Making a Progressive Web App
+Airport transfers and local transportation
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
+Exclusions
 
-### Advanced Configuration
+Airfare and visa fees
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
+Personal expenses (shopping, tips, etc.)
 
-### Deployment
+Travel insurance
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
+Any additional activities not mentioned in the itinerary
 
-### `npm run build` fails to minify
+## 🛠️ Tech Stack
+- **Frontend:** React.js, CSS, Javascript
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+Feel free to open issues or contribute via pull requests!
+
+## 📞 Contact
+For questions, reach out via create an issue in the repository.
+
+---
+Made with ❤️ using React.js
+
