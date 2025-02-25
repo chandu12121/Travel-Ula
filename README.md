@@ -9,6 +9,11 @@ Travel Unbounded is a travel website built using React that allows users to expl
 - Fixed Header Navigation Bar
 - Destination Dropdown with Hover Popup
 - Slick Carousel for Image Slideshow
+- User-friendly holiday booking form
+- OTP verification for phone numbers
+- Responsive design
+- Interactive UI with dropdowns and date picker
+- Styled with CSS
 
 ## Technologies Used
 
@@ -22,12 +27,6 @@ Travel Unbounded is a travel website built using React that allows users to expl
 - Navigate through the **carousel** using left and right arrows.
 - Scroll through the page while the **header remains fixed** at the top.
 
-## 🚀 Features
-- User-friendly holiday booking form
-- OTP verification for phone numbers
-- Responsive design
-- Interactive UI with dropdowns and date picker
-- Styled with CSS
 
 📌 Itinerary
 
